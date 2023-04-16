@@ -1,28 +1,32 @@
 body{
   background-color:hsl(212, 45%, 89%);
+  width:100%;
 }
 
 .card{
-  width:250px;
-  background-color:white;
+  width:23%;
+  background-color: hsl(0,0%,100%);
   border-radius:15px;
-  margin: 60px auto;
+  margin: 40px auto;
   padding:20px;
   text-align:center;
   
 }
 img{
 width:100%;
+  border-radius:10px;
 }
 .title{
   font-family:outfit;
-  font-size:15px;
   font-weight:700;
-  color:hsl(218, 44%, 22%)
-}
+  color:hsl(218, 44%, 22%);
+  padding:5px 5px 0 5px;
+  
+  }
 .description{
   font-family:outfit;
   font-size:15px;
   font-weight:400;
   color:hsl(220, 15%, 55%);
+  padding:5px;
 }
