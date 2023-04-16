@@ -6,6 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -16,13 +17,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
   Its a QR code component banner creation challenge resembling the given template.
   
-## My Process
-
+### Screenshot
+  
+![image](image.png)
 ### Links
 
 - Solution URL:(https://qrcodecomponent.manirajl.repl.co/)
 
-
+## My Process
 ### Built with
 
 - Semantic HTML5 markup
