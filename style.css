@@ -1,13 +1,18 @@
 body{
   background-color:hsl(212, 45%, 89%);
-  width:100%;
+  /*width:100%;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
 
 .card{
-  width:23%;
+ /* width:23%;*/
+  max-width:285px;
   background-color: hsl(0,0%,100%);
   border-radius:15px;
-  margin: 2em auto;
+  /*margin: 2em auto;*/
   padding:20px;
   text-align:center;
   
